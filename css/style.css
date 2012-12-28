@@ -1,0 +1,13 @@
+body {
+    background-color: #1F1A17;
+    text-align: center;
+}
+.slide{
+    cursor: pointer;
+    margin:36px;
+    height:500px;
+    padding: 30px;
+}
+.slide img{
+    margin:30px;
+}

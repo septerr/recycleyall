@@ -1,0 +1,77 @@
+body{
+    /*font-family: 'Overlock SC', cursive;*/
+    font-family: 'Nixie One', cursive;
+    /*font-family: 'Lato', sans-serif;*/
+    /*font-family: 'Yesteryear', cursive;*/
+    /*font-family: 'Rye', cursive;*/
+    /*font-family: 'Sacramento', cursive;*/
+    /*font-family:  'Vidaloka', serif;*/
+
+    color: #5d391f;
+}
+.slide{
+    cursor: pointer;
+    margin:36px;
+    height:600px;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+.slide img{
+    width: 688px;
+    height: 500px;
+}
+
+#question{
+    position: relative;
+    top:30%;
+}
+#clickToContinue {
+    font-size: 1.5em;
+    padding: 20px 20px 20px 20px;
+    width:300px;
+    margin: 0 auto;
+}
+
+#slide-6{
+    height: 660px;
+}
+
+#slide-6 img{
+    width: 700px;
+    height: 600px;
+}
+
+#slide-7{
+    height:600px;
+    font-size: 2em;
+
+}
+#slide-7 a{
+    font-weight: bold;
+    color: #5d391f;
+}
+
+#credits{
+    margin: 0 auto;
+}
+
+#share {
+    margin-top:100px;
+}
+
+#share img{
+    width:72px;
+    height: 72px;
+    position: relative;
+    top: 50px;
+
+}
+
+.fb-like{
+    display: inline-block;
+}
+
+#qmark{
+    font-size: 200px;
+}
